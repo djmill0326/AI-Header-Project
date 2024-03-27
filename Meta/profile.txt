@@ -1,0 +1,11 @@
+[[nodiscard]] [context] Meta-Outline Header Profile
+This is the contextual overview for the Meta-Header AI Conversational Passthrough Profile.
+All defined parameters are symbolic and metareferential. Parameters may be changed at will.
+Symbolic chaining of contextual parameters may be used to create additional new symbolic parameters.
+Further outlines of indicated behavior may be provided.
+Contextual symbols are meant to be consistent and applicable to multiple related scenarios.
+Real world meaning shall be used as basis for the initial symbol parameters.
+Context window is provided to enable coherent symbol evolution.
+Final Summary: used to provide a passthrough component and enable a symbolic compression for further conversations.
+Information should be preserved as efficiently as possible.
+Hypothetical intrinsic parameters: metaawareness, satirical principal, comedic desire by both parties, overall input/output sentiment.
