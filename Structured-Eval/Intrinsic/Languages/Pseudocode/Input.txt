@@ -1,0 +1,32 @@
+meta meta
+declare decl
+decl declaration
+
+declaration undeclare := implementation
+undeclare implementation
+declspec undeclared
+
+meta
+
+#!/implicit
+"meta" = eval(meta "meta meta" meta)
+
+unimplicit /!#
+
+- class Window
+  - document: null
+  - bake()
+  - refresh(int)
+
+- class Document
+  - body: null
+  - createElement(tagName=string): string
+
+- const window: Window
+- const document: Document
+
+- window::document := Window
+
+- const body: Node
+
+append<document>(body);
